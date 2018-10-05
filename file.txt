@@ -1,1 +1,2 @@
-system.out.println("ahihihih");
+System.out.println("ahihihih");
+Scanner sc=new Scanner(System.in);
