@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 system.out.println("ahihihih");
 int n=sc.nextln();
+=======
+System.out.println("ahihihih");
+Scanner sc=new Scanner(System.in);
+>>>>>>> master
