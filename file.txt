@@ -1,1 +1,2 @@
 system.out.println("ahihihih");
+int n=sc.nextln();
